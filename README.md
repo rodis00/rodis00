@@ -11,3 +11,6 @@ Projekt [bazy_g5](https://github.com/LTS-Bugs/bazy_g5) - projekt zaliczający pr
 
 ## Project: Projektowanie Serwisów Internetowych
 [PSI](https://github.com/SzWielgosz/PSI)
+
+## Project: Kolo-Python-Web2
+[web-project-1](https://github.com/Kolko-Python-Web2/web-project-1)
