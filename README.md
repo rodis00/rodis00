@@ -4,10 +4,11 @@
 - 🎓 I’m currently studying
 
 ## Project: Bazy danych
-Projekt [bazy_g5](https://github.com/LTS-Bugs/bazy_g5) - projekt zaliczający przedmiot.
+[bazy_g5](https://github.com/LTS-Bugs/bazy_g5) - project of a database to pass the subject
 
 ## Project: Inżynieria Oprogramowania
-[ICC_15_00](https://github.com/Vex0on/ICC_15_00)
+1. [Swimming Pool Project](https://github.com/Vex0on/ICC_15_00) - source code
+2. [http://vexon.pythonanywhere.com/](http://vexon.pythonanywhere.com/) - link to the website
 
 ## Project: Projektowanie Serwisów Internetowych
 [PSI](https://github.com/SzWielgosz/PSI)
