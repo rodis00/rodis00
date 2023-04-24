@@ -15,4 +15,4 @@
 - [Swimming Pool API](https://github.com/SzWielgosz/PSI) - source code
 
 ## Project: Imgur clone (Python/Django)
-- [Imgur_clone](https://github.com/Vex0on/ICC_Imgur_clone) - source code
+- [Imgur_clone](https://github.com/Vex0on/ICC_Imgur_clone) - source code (in progress)
