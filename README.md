@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m Adrian
-- 🎂 I'm 22
+- 🎂 I'm 23
 - 🎓 I’m currently studying
 - 🐍 I'm learning Python/Django (Django Rest Framework)
 
