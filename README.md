@@ -1,18 +1,29 @@
-# About me
-- 👋 Hi, I’m Adrian
-- 🎂 I'm 23
-- 🎓 I’m currently studying
-- 🐍 I'm learning Python/Django (Django Rest Framework)
+# 👋About me
+Hello, my name is Adrian. I am a 23 years old computer science student (Information Systems Engineering) at the University of Warmia and Mazury in Olsztyn.
 
-## Project: Bazy danych
-- [bazy_g5](https://github.com/LTS-Bugs/bazy_g5) - project of a database to pass the subject
+## ☕Technologies I know
+<a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png" alt="python" width="48"/>
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/django/django.png" alt="django" width="48"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/mysql/mysql.png" alt="mysql" width="48"/>
+</a>
 
-## Project: Inżynieria Oprogramowania (Python/Django)
-1. [Swimming Pool Project](https://github.com/Vex0on/ICC_15_00) - source code
-2. [http://vexon.pythonanywhere.com/](http://vexon.pythonanywhere.com/) - link to the website
+## 📚 I'm learning
+<a href="https://www.java.com/">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="48"/>
+</a>
+<a href="https://spring.io/projects/spring-boot/">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/spring/spring.png" alt="spring" width="48"/>
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/postgresql/postgresql.png" alt="postgresql" width="48"/>
+</a>
 
-## Project: Projektowanie Serwisów Internetowych (Python/Django)
-- [Swimming Pool API](https://github.com/SzWielgosz/PSI) - source code
+# 🏗 Projects
+[Tickets Management App](https://github.com/Vex0on/ICC_15_00) - A group web application for managing tickets for a swimming pool, spa and gym, created in Python + Django + Sqlite
 
-## Project: Imgur clone (Python/Django)
-- [Imgur_clone](https://github.com/Vex0on/ICC_Imgur_clone) - source code (in progress)
+[Photo Sharing App](https://github.com/Vex0on/ICC_Imgur_clone) - [Imgur](https://imgur.com/) inspired group photo sharing web app built with Python + Django + Docker + React + PostgreSQL
