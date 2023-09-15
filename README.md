@@ -31,6 +31,6 @@ Hello, my name is Adrian. I am a 23 years old computer science student (Informat
 # My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madpapa&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madpapa&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madpapa&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-madpapa.vercel.app/api?username=madpapa&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats-madpapa.vercel.app/api/top-langs/?username=madpapa&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
