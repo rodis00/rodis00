@@ -29,8 +29,8 @@ Hello, my name is Adrian. I am a 23 years old computer science student (Informat
 [Photo Sharing App](https://github.com/Vex0on/ICC_Imgur_clone) - [Imgur](https://imgur.com/) inspired group photo sharing web app built with Python + Django + Docker + React + PostgreSQL
 
 # My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodis00&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodis00&theme=dark&background=000000)
 
 ![Anurag's GitHub stats](https://github-readme-stats-madpapa.vercel.app/api?username=rodis00&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats-madpapa.vercel.app/api/top-langs/?username=rodis00&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-madpapa.vercel.app/api/top-langs/?username=rodis00&layout=donut&theme=vision-friendly-dark)
 
