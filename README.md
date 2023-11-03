@@ -24,9 +24,11 @@ Hello, my name is Adrian. I am a 23 years old computer science student (Informat
 </a>
 
 # 🏗 Projects
-[Tickets Management App](https://github.com/Vex0on/ICC_15_00) - A group web application for managing tickets for a swimming pool, spa and gym, created in Python + Django + Sqlite
+[Book Management App](https://github.com/rodis00/simple-crud-app) - Simple Application created in `React` and `Springboot` for management books
 
-[Photo Sharing App](https://github.com/Vex0on/ICC_Imgur_clone) - [Imgur](https://imgur.com/) inspired group photo sharing web app built with Python + Django + Docker + React + PostgreSQL
+[Tickets Management App](https://github.com/Vex0on/ICC_15_00) - A group web application for managing tickets for a swimming pool, spa and gym, created in `Python + Django + Sqlite`
+
+[Photo Sharing App](https://github.com/Vex0on/ICC_Imgur_clone) - [Imgur](https://imgur.com/) inspired group photo sharing web app built with `Python + Django + Docker + React + PostgreSQL`
 
 # My stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodis00&theme=dark&background=000000)
