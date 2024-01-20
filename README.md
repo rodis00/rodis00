@@ -24,6 +24,8 @@ Hello, my name is Adrian. I am a 23 years old computer science student (Informat
 </a>
 
 # 🏗 Projects
+[AstroSales](https://github.com/rodis00/astrosales) - Web application for selling space tickets created as part of engineering work, made with `SpringBoot + MySQL + Angular` 
+
 [Book Management App](https://github.com/rodis00/simple-crud-app) - Simple Application created in `React` and `Springboot` for management books
 
 [Tickets Management App](https://github.com/rodis00/ICC_15_00) - A group web application for managing tickets for a swimming pool, spa and gym, created in `Python + Django + Sqlite`
