@@ -38,6 +38,8 @@ Hello, my name is Adrian. I am a 24 years old computer science student (Informat
 </a>
 
 ### Projects:
+[Book Exchange](https://github.com/rodis00/book-exchange) - Application to exchange used books between app users, developing with  `Spring Boot + PostgreSQL + Flyway + Swagger`
+
 [AstroSales](https://github.com/rodis00/astrosales) - Web application for selling space tickets created as part of engineering work, made with `SpringBoot + MySQL + Angular` 
 
 [Book Management App](https://github.com/rodis00/simple-crud-app) - Simple Application created in `React` and `Springboot` for management books
