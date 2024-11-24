@@ -30,8 +30,8 @@ Hello, my name is Adrian. I am a 24 years old computer science student (Informat
 </a>
 
 ### I'm learning:
-<a href="https://angular.dev/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="48"/>
+<a href="https://react.dev/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="48"/>
 </a>
 <a href="https://www.postgresql.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="48"/>
