@@ -1,5 +1,12 @@
-# 👋About me
-Hello, my name is Adrian. I am a 24 years old computer science student (Information Systems Engineering) at the University of Warmia and Mazury in Olsztyn.
+# 👋 About me
+### Hello! My name is Adrian,
+I am a **25-year-old Computer Science student** 🎓 specializing in **Information Systems Engineering** at the </br>
+**University of Warmia and Mazury in Olsztyn**.
+I am also a **Java Developer** 💻, </br>
+**passionate about software development, system architecture, and problem-solving**.
+
+I have experience in **building web applications, working with databases**, and</br> 
+**developing scalable systems** ⚙️. Always eager to learn, grow, and take on new challenges! 🚀
 
 ### Technologies I know:
 <a href="https://www.java.com/">
