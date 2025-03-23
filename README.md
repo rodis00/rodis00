@@ -48,6 +48,8 @@ I have experience in **building web applications, working with databases**, and<
 </a>
 
 ### Projects:
+[Expense Tracker](https://github.com/rodis00/expense-tracker) - The Expense Tracker app allows users to track income and expenses, manage their personal budget, and visualize spending through charts and graphs for better financial insights.
+
 [Book Exchange](https://github.com/rodis00/book-exchange) - Application to exchange used books between app users, developing with  `Spring Boot + PostgreSQL + Flyway + Swagger`
 
 [AstroSales](https://astrosales.vercel.app/) - Web application for selling space tickets created as part of engineering work, made with `SpringBoot + MySQL\PostgreSQL + Angular\React` 
