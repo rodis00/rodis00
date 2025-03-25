@@ -52,6 +52,8 @@ I have experience in **building web applications, working with databases**, and<
 
 [Book Exchange](https://github.com/rodis00/book-exchange) - Application to exchange used books between app users, developing with  `Spring Boot + PostgreSQL + Flyway + Swagger`
 
+[BasicAuthDemo](https://github.com/rodis00/basicAuthDemo) - This is a demo project showcasing how Basic Authentication works in Spring Security, with role-based and permission-based access control.
+
 [AstroSales](https://astrosales.vercel.app/) - Web application for selling space tickets created as part of engineering work, made with `SpringBoot + MySQL\PostgreSQL + Angular\React` 
 ([source code](https://github.com/rodis00/astrosales))
 
